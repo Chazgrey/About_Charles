@@ -12,7 +12,7 @@ I'm a Data Scientist with a strong foundation in **Exploratory Data Analysis (ED
 ## 🛠 Tools & Technologies
 - **Languages**: Python, SQL
 - **Data Analysis & ML**: pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
-- **Visualization**: Tableau, Power BI (learning)
+- **Visualization**: Power BI (learning)
 - **Other**: Git & GitHub, Jupyter Notebooks, Google Colab
 
 ## 📂 Projects
@@ -21,7 +21,7 @@ This repository is my space to showcase personal projects, practice new techniqu
 - Early machine learning experiments (classification, regression, clustering)
 - Ongoing work as I deepen my ML skills
 
-Feel free to explore, fork, or suggest improvements—I'm always learning!
+Feel free to explore, fork, or suggest improvements,I'm always learning!
 
 ## 🌱 Currently Growing In
 - Machine learning fundamentals and advanced techniques
